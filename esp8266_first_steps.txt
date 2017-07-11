@@ -7,3 +7,8 @@ firmware downloaded from : http://micropython.org/download#esp8266
   149  esptool.py --port /dev/ttyUSB0 --baud 115200 write_flash --flash_size=detect 0 esp8266-20170612-v1.9.1.bin 
   150  apt-get install screen
   151  screen /dev/ttyUSB0 115200
+
+also usefull links are :
+
+http://micropython-on-wemos-d1-mini.readthedocs.io
+https://wiki.wemos.cc/downloads
