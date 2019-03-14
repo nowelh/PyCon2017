@@ -12,3 +12,6 @@ also usefull links are :
 
 http://micropython-on-wemos-d1-mini.readthedocs.io
 https://wiki.wemos.cc/downloads
+
+
+#test 
